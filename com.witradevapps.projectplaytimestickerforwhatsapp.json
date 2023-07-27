@@ -25,7 +25,7 @@
   },
 
   "app_settings" : {
-    "navigation_mode" : "tab_layout_bottom",
+    "navigation_mode" : "tab_layout_top",
 
     "recent_fragment_list_view_mode" : "small",
     "favorite_fragment_list_view_mode" : "small",
