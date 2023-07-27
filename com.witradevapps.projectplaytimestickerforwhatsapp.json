@@ -1,0 +1,173 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "266017426154565",
+        "banner": "266017426154565_266019399487701",
+        "mrec": "266017426154565_266019506154357",
+        "inter": "266017426154565_266019436154364",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "small",
+    "favorite_fragment_list_view_mode" : "small",
+    "category_fragment_list_view_mode" : "small",
+    "category_activity_list_view_mode" : "small",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Advices",
+      "title": "Understanding Investment: A Comprehensive Guide to Financial Growth",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Investment is a critical aspect of personal finance that allows individuals to grow their wealth over time",
+      "link": "https://witramlydr.blogspot.com/p/understanding-investment-comprehensive.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Advices",
+      "title": "Diversifying Your Portfolio: The Key to Successful Investing",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "is a mantra often repeated in the world of investing, and for good reason",
+      "link": "https://witramlydr.blogspot.com/p/diversifying-your-portfolio-key-to.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Advices",
+      "title": "The Role of Risk Management in Investment Strategies",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Investing inherently involves risk, and understanding how to manage risk is crucial for any investor",
+      "link": "https://witramlydr.blogspot.com/p/the-role-of-risk-management-in.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Advices",
+      "title": "Bull vs. Bear: Navigating the Stock Market's Ups and Downs",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "In the financial world, the terms bull market and bear market are used to describe the prevailing trends in the stock market",
+      "link": "https://witramlydr.blogspot.com/p/bull-vs-bear-navigating-stock-markets.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Advices",
+      "title": "Demystifying Mutual Funds: A Beginner's Guide to Investment Vehicles",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Mutual funds are a popular investment vehicle that pool money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities",
+      "link": "https://witramlydr.blogspot.com/p/demystifying-mutual-funds-beginners.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Advices",
+      "title": "Investing in Cryptocurrencies: Opportunities and Risks Unveiled",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Cryptocurrencies, such as Bitcoin and Ethereum, have gained significant attention in recent years as alternative investment assets",
+      "link": "https://witramlydr.blogspot.com/p/investing-in-cryptocurrencies.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Advices",
+      "title": "Smart Investment Moves for Retirement Planning",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Retirement planning is a long-term financial goal that requires careful investment decisions throughout one's working years",
+      "link": "https://witramlydr.blogspot.com/p/smart-investment-moves-for-retirement.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Advices",
+      "title": "The Power of Compounding: How to Make Your Money Work for You",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Compounding refers to the process of earning returns on both the initial investment and the accumulated interest or gains",
+      "link": "https://witramlydr.blogspot.com/p/the-power-of-compounding-how-to-make.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Advices",
+      "title": "Value Investing: Unearthing Hidden Gems in the Stock Market",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Value investing is an investment strategy popularized",
+      "link": "https://witramlydr.blogspot.com/p/value-investing-unearthing-hidden-gems.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Advices",
+      "title": "Decoding Investment Jargon: Common Terms Every Investor Should Know",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "The world of investments is rife with jargon and technical terminology that can be overwhelming for novice investors",
+      "link": "https://witramlydr.blogspot.com/p/decoding-investment-jargon-common-terms.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Advices",
+      "title": "Sustainable Investing: Aligning Profitability with Environmental and Social Goals",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Sustainable investing, also known as socially responsible investing or ESG ",
+      "link": "https://witramlydr.blogspot.com/p/sustainable-investing-aligning.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Advices",
+      "title": "Top 5 Investment Mistakes to Avoid: A Guide for Novice Investors",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gXyLuw_wu53OUSLjMxJQbUQ0WASNOhwFnuXdOm0JEk5S4vsJh6i9A19zr0kOFxRr5jo1noNdg0bD82bVQiqvsA1ig1-zcC1-JRKT7NgytmRO3FejxuuGk0voQ3gHTR15EVXgXKBZZkRtSR0OT6UqZTGL6JOCvcUG6mY-UMVFTb5H3VBjCgeTkPq11Y8/s320/icon.png",
+      "description": "Making mistakes is a natural part of the learning process, but when it comes to investing, avoiding some common pitfalls can save you from significant financial setbacks",
+      "link": "https://witramlydr.blogspot.com/p/top-5-investment-mistakes-to-avoid.html"
+    }
+  ]
+}
